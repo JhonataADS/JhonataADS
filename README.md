@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Engineer Technology (4 years)<br>💬 Ask me about JavaScript<br>🌱 I’m currently learning AWS<br>
+🔭 Engineer Technology (4 years) at NTT DATA<br>💬 Ask me about JavaScript/Angular <br>🌱 I’m currently learning AWS<br>
 
 
 ## 🌐 Socials:
